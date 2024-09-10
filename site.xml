@@ -3,7 +3,7 @@
    <description name="CopilotMetricsUpdateSite">
       This is the update site for CopilotMetrics plugin &amp; feature.
    </description>
-   <feature url="features/CopilotMetricsFeature_1.0.0.202407301234.jar" id="CopilotMetricsFeature" version="1.0.0.202407301234">
+   <feature url="features/CopilotMetricsFeature_1.0.0.202409101516.jar" id="CopilotMetricsFeature" version="1.0.0.202409101516">
       <category name="CopilotMetrics"/>
    </feature>
    <category-def name="CopilotMetrics" label="CopilotMetrics"/>
